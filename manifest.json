@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Bionic Reader for ADHD",
+  "name": "SwiftSight - Bionic Reader for ADHD",
   "version": "1.0",
   "description": "Helps ADHD sufferers read faster and focus better by applying bionic reading techniques to web pages",
   "permissions": ["activeTab", "storage", "contextMenus"],
