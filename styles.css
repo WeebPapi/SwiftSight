@@ -1,0 +1,11 @@
+.bionic-word {
+  display: inline !important;
+}
+
+.bionic-word strong {
+  font-weight: bold !important;
+  color: inherit !important;
+  background-color: inherit !important;
+  font-family: inherit !important;
+  font-size: inherit !important;
+}
