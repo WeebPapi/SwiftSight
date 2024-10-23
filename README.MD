@@ -19,21 +19,25 @@ SwiftSight enhances your reading experience by highlighting key parts of words, 
 ### Customization Popup
 
 ![Customization settings](./images/screenshots/popup-settings.png)
+
 _Adjust the bionic reading intensity using an intuitive slider_
 
 ### Context Menu Integration
 
 ![Context menu feature](./images/screenshots/context-menu.png)
+
 _Right-click any selected text to apply bionic reading through the context menu_
 
 ### Full Page Transformation
 
 ![Full page transformation](./images/screenshots/full-page-demo.png)
+
 _Transform entire web pages with your preferred settings_
 
 ### Before & After Comparison
 
 ![Before and After comparison](./images/screenshots/before-after.png)
+
 _See the difference in readability with SwiftSight_
 
 ## Customization Options
